@@ -1,4 +1,7 @@
-# Asymmetric-Key-Encryptor-Decryptor 
+# LockNShare 
+LockNShare is an Asymmetric-Key Encryptor-Decryptor that enables users to securely share passwords, secret codes, or files over public channels. Only the recipient with the correct private key can decrypt the encrypted data.<br><br>
+![image](https://github.com/user-attachments/assets/fd2ac936-13ce-4aea-8448-2bcc618cfb98)
+
 The program utilizes a combination of Diffie-Hellman key exchange and XOR cipher for encrypting and decrypting the file content. The Diffie-Hellman algorithm ensures secure key exchange, while the XOR operation provides a method for actual data encryption.
 
 ## Key Points:
